@@ -74,9 +74,8 @@ Here is a breakdown of each of the four tests:
 
 Comparing how the MechaCar performs with the competition and how to go about this.
 
-What metric or metrics are you going to test?
-
- An important metric to test would be fuel efficiency between MechaCar and comparable vehicles belonging to the competitor.
+1.What metric or metrics are you going to test?
+An important metric to test would be fuel efficiency between MechaCar and comparable vehicles belonging to the competitor.
 
 2. What is the null hypothesis or alternative hypothesis?
 Null Hypothesis is that all of the cars in the same class have the same fuel efficiency regardless of the manufacturer. The Alternative Hypothesis is that they are not all the same.
@@ -85,5 +84,4 @@ Null Hypothesis is that all of the cars in the same class have the same fuel eff
 I would use the ANOVA test method for this hypothesis. This method would compute the analysis of variance/deviance in tables for one or more fitted model objects.
 
 4. What data is needed to run the statistical test?
-
 I would need fuel efficiency data from 50 individual cars to create a sample size of data for each car in the class type.
